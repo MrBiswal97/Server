@@ -17,7 +17,8 @@
         public Project? Project { get; set; }
 
         // Comments Relationship.
-        public ICollection<Comment> Comments { get; set; } = new List<Comment>();   
+        public ICollection<Comment>? Comments { get; set; }
+        public ICollection<TaskAssignment>? Assignments { get; set; }
 
 
     }
