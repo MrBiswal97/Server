@@ -12,7 +12,7 @@ Installation required Packages(3).
    }
 
 Discussion of Data Base Project.
-1. A User Can Create Amny Project.
+1. A User Can Create A many Project.
 2. A Project has many task.
 3. A task  belongs to one project.
 4. A project has many members.
